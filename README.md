@@ -1,6 +1,6 @@
-# Solana Marketplace with Candy-Shop and Candtmachine
+# Solana Marketplace with Candy-Shop and Candymachine
 
-![Project Logo](logo.png) <!-- You can add your project logo here -->
+![Project Logo](marketScreen.png) <!-- You can add your project logo here -->
 
 This repository contains the source code for a decentralized marketplace built on the Solana blockchain using TypeScript. The marketplace utilizes the Candy-Shop and Candtmachine libraries to enable the creation, management, and trading of digital assets in a decentralized and secure manner.
 
